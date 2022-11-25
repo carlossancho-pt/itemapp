@@ -16,5 +16,19 @@
       "id": 4,
       "value": "Item4"
     }
-  ]
+  ],
+  "QualquerCoisa": [
+    {
+      "id": 1,
+      "umValor": "valor"
+    },
+    {
+      "id": 2,
+      "umValor": "valor"
+    },
+    {
+      "id": 3,
+      "umValor": "valor3"
+    }
+    ]
 }
